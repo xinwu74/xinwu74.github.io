@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "XIN WU (吴欣)"
   avatar           : "profile.png"
-  bio              : "🎄 Keep the passion for all research. Craftsmanship spirit, engineering mindset.\n🎄 保持热情, 工匠精神, 工程思维。"
+  bio              : "🎄 Keep the passion for all research. Craftsmanship spirit, engineering mindset. \n 🎄 保持热情, 工匠精神, 工程思维。"
   location         : "Guang dong"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -210,9 +210,18 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
+  # - scope:
+  #     path: ""
+  #     type: teaching
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
+    # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: About
     values:
       layout: single
       author_profile: true
@@ -227,23 +236,50 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # Projects
   - scope:
       path: ""
-      type: portfolio
+      type: Projects
     values:
       layout: single
       author_profile: true
       share: true
-      comment: true
-  # _talks
+      comments: true
+  # CV
   - scope:
       path: ""
-      type: talks
+      type: CV
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
+      comments: true
+  # CV
+  - scope:
+      path: ""
+      type: 中文
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # # _portfolio
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
+  # # _talks
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 # Sass/SCSS
 sass:
