@@ -27,7 +27,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - **Sep 2021 - June 2024:** Wuyi University (MEng)
 - **Sep 2016 - June 2020:** Chongqing University of Education (BEng)
-<br>
+
 ---
 
 ## Research Interests
@@ -37,6 +37,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Multimodal learning
 - Multi-label image classification
 - Medical image processing
+
+<br>
 ---
 
 ## News and Updates
