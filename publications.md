@@ -12,19 +12,23 @@ Lastest Update: 20th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://xi
 
 
 **Demo**
+
 ![demo](https://xinwu74.github.io/images/demo.gif)
 
 <br>
 
+
 **Model**
+
 ![model](https://xinwu74.github.io/images/model.png)
 
 <br>
+
 <!-- 
 ![reslut](https://xinwu74.github.io/images/result.png)
 -->
 
-**Abstract:** <p align="center"> Multilabel image classification aims to assign images to multiple possible labels. In this task, each image may be associated with multiple labels, making it more challenging than the single-label classification problems. For instance, convolutional neural networks (CNNs) have not met the performance requirement in utilizing statistical dependencies between labels in this study. Additionally, data imbalance is a common problem in machine learning that needs to be considered for multilabel medical image classification. Furthermore, the concatenation of a CNN and a transformer suffers from the disadvantage of lacking direct interaction and information exchange between the two models. To address these issues, we propose a novel hybrid deep learning model called CTransCNN...</p>
+**Abstract:** Multilabel image classification aims to assign images to multiple possible labels. In this task, each image may be associated with multiple labels, making it more challenging than the single-label classification problems. To address these issues, we propose a novel hybrid deep learning model called CTransCNN...
 
   <br>
 
