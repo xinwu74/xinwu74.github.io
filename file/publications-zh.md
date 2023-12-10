@@ -21,9 +21,9 @@ title: Publications-zh
 - [深度学习在舌象分类中的研究综述](https://xinwu74.github.io/mypaper/review/2022review.pdf)<br>**吴欣**, 徐红, 林卓胜, 李胜可, 刘慧琳, 冯跃(*)
 
 ## 会议论文
-- [CheXNet: Combing Transformer and CNN for Thorax Disease Diagnosis from Chest X-ray Images](https://xinwu74.github.io/mypaper/Conference/2023PRCV-CheXNet.pdf)<br>**吴欣**, 冯跃, 等. (2023 Chinese Conference on Pattern Recognition and Computer Vision, CCF-C) [supp](https://xinwu74.github.io/mypaper/Conference/2023PRCV-CheXNet_Supp.pdf)<br>
+- [CheXNet: Combing Transformer and CNN for Thorax Disease Diagnosis from Chest X-ray Images](https://xinwu74.github.io/mypaper/Conference/2023PRCV-CheXNet.pdf)&nbsp;[附录](https://xinwu74.github.io/mypaper/Conference/2023PRCV-CheXNet_Supp.pdf)  <br>**吴欣**, 冯跃, 等. (2023 Chinese Conference on Pattern Recognition and Computer Vision, CCF-C) <br>
 
-
+<br>
 ## 专利
 - 体质多标签分类方法、设备及介质 (2023109747391)
 - 一种舌诊方法、设备和介质 (20221113123.5)
