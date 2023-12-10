@@ -12,21 +12,15 @@ Lastest Update: 20th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://xi
 
 
 **Demo**
-
 ![demo](https://xinwu74.github.io/images/demo.gif)
 
 <br>
 
 
 **Model**
-
 ![model](https://xinwu74.github.io/images/model.png)
 
 <br>
-
-<!-- 
-![reslut](https://xinwu74.github.io/images/result.png)
--->
 
 **Abstract:** Multilabel image classification aims to assign images to multiple possible labels. In this task, each image may be associated with multiple labels, making it more challenging than the single-label classification problems. To address these issues, we propose a novel hybrid deep learning model called CTransCNN...
 
