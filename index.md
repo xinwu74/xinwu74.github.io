@@ -4,7 +4,7 @@ layout: page
 
 <!-- # About Me -->
 
-<img src="https://xinwu74.github.io/wuxin.jpg" class="floatpic" width="360" height="480">
+<!-- <img src="https://xinwu74.github.io/wuxin.jpg" class="floatpic" width="360" height="480"> -->
 
 Here is **Xin Wu (Tina, 吴欣)**.
 
