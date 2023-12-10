@@ -8,7 +8,7 @@ layout: page
 
 Here is **Xin Wu (Tina, 吴欣)**.
 
-📖 I am currently a graduate student 🔭.
+📖 I am currently a graduate student 🔭. My main research interests are image processing, artificial intelligence 💻 + medical 🏥, with a focus on imaging medicine, and intelligent Chinese medicine diagnosis. My research interests lie in Machine Learning, Computer Vision and Multimodal learning.
 
 🤔 Only two things make me move.
 
@@ -36,12 +36,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Computer Vision
 - Multimodal learning
 - Multi-label image classification
-
-<br>
-My main research interests are image processing, artificial intelligence 💻 + medical 🏥, with a focus on imaging medicine, and intelligent Chinese medicine diagnosis. My research interests lie in Machine Learning, Computer Vision and Multimodal learning.
-
-<br>
-
+- Medical image processing
 ---
 
 ## News and Updates
