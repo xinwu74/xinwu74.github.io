@@ -4,50 +4,37 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
+Lastest Update: 10th Dec 2023 &nbsp; [中文版本 (Chinese Version)](https://xinwu74.github.io/file/awards-zh/)
+
+## Professional certificates
+
+- Nov 2018: System Integration Project Management Engineer (Software Exam Intermediate)
 
 ## Scholarships
-
-- August 2023：**FEPG Scholarship** (about $1400)<br>One of the highest undergraduate awards at FZU.
-- May 2023：**XiamenAir Scholarship** (about $600)<br>One of the highest undergraduate awards at FZU
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Student Project Award of Maynooth (€100)
-- March 2023：Second Prize Scholarship of FZU ($1400)
-- Sep 2022：First Prize Scholarship of FZU ($2100)
-- March 2022：First Prize Scholarship of FZU ($2100)
-- Sep 2021：Third Prize Scholarship of FZU ($700)
-- March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth.<br>
+- Postraduate: I have been awarded the First-Class Academic Scholarship three times, with evaluations conducted annually throughout the academic year.
+- Undergraduate: I have been recognized as an outstanding student (三好学生) three times, received the National Inspirational Scholarship (国励志奖学金) twice, earned the First-Class University Scholarship (校一等奖学金) seven times, and was honored with the Excellence Scholarship (卓越奖学金).
 
 ## Competitions
+- Nov 2018: Outstanding Award in the Fourth "Internet+" Innovation and Entrepreneurship Competition, Chongqing.
+- Sep 2018: Third Prize in the 2018 Microsoft "Innovation Cup" Global College Student Technology Competition, China Region (Top 36 nationwide).
+- Sep 2018: First Prize at the school level in the Fourth "Internet+" College Student Innovation and Entrepreneurship Competition.
+- August 2018: Bronze Award in the "Chuang Qing Chun" College Student Innovation and Entrepreneurship Competition, Chongqing.
+- June 2018: Third Prize at the school level in the National College Student Computer Ability and Information Literacy Competition.
+- May 2018: Participation in the Sixth "Teddy Bear Cup" Data Mining Challenge.
+- Apr 2018: Third Prize in the Information and Communication Technology (ICT) 2018 competition.
+- Nov 2017: First Prize in the Fifth Ball Games Competition of Chongqing Second Normal University.
+- Nov 2017: Outstanding Athlete in the Fifth Track and Field Games.
+- Sep 2017: College Excellence Award in the 2017 "Chinese Soul" Reading and Writing Competition.
 
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition
-- Aug 2023：**<font color='red'>Best Technology Award</font>** in National Youth Science Innovation Project Competition
-- Aug 2023：Second Prize in National College Digital Art&Design Awards (NCDA, provincial level)
-- July 2023：Third Prize in Fujian College Student Computer Design Competition
-- June 2023：**First Prize (Provincial championship)** in Fujian Youth Science Innovation Project Competition
-- May 2023：**<font color='red'>Finalist Award</font>** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Dec 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling
-- Oct 2022：Maynooth International Engineering College Best Student Project in Academic Year 2022
-- Aug 2022： Third Prize in China National College Student Computer Design Competition
-- June 2022：Second Prize in Fujian College Student Computer Design Competition
-- June 2022：**Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University
-- June 2022：Third Prize in the 13th Nanwei Cup Mathematical Mathematical Contest in Modeling<br>
+## HonResearch Funds
 
-## Honors
-
-- Aug 2023：**FEPG Scholarship (Top 0.5%)**<br>Funded by Fujian Energy Petrochemical Group
-- May 2023：**XiamenAir Scholarship (Top 1%)**<br>Funded by Xiamen Airline, 30 students each year
-- May 2023：Outstanding Student Leaders of FZU
-- May 2021：Merit Student of Fuzhou University
-- July 2023：*Nomination for Baosteel Scholarship*
-- Sep 2022：*Nomination for China National Scholarship*
-- June 2022：*Nomination for China Telecom Scholarship*<br>
+- 2021-2024: Application of Yuan Learning in the Diagnosis of Five Organ States in Traditional Chinese Medicine<br>Provincial Project (2021ZDZX1032) - Principal Investigator
+- 2021-2023: Research on Traditional Chinese Medicine Inspection using Artificial Intelligence<br>University Internal Research Project (2018TP023) - Principal Investigator
 
 ## Services
+- Mar 2023: Community Service Volunteer.、
+- Octr 2022: Volunteer for Nucleic Acid Testing.
+- Nov 2016: Outstanding Worker in the 2016 Ball Games Competition.
+- Jun 2018: Outstanding Department Head of the 2017-2018 academic year for the Badminton Club.
 
-- Sep 2022 - Sep 2023：IEEE Student Membership, CAAI Student Membership
-- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee of FZU
-- Sep 2020 - Sep 2021：Monitor of Maynooth International Engineering College of FZU
-- April 2022：**Top 10 Best Volunteers (Only 10/30000)** of Fuzhou University
-- July 2021：Outstanding volunteer at 44th session of the World Heritage Committee
-- April 2021：Outstanding volunteer at 4th Digital China Summit<br>
+

@@ -18,8 +18,7 @@ ii. Life was like a box of chocolates 🍫. You never know what you're going to 
 
 iii. ❤️ I like running 🏃‍♀️, eating 🐮, traveling 🏝, and bicycling 🚴.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *wu1351658806[at]163.com*
-
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at **wu1351658806[at]163.com**
 <br>
 
 ## Academic Background
@@ -28,9 +27,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - **Sep 2021 - June 2024:** Wuyi University (MEng)
 - **Sep 2016 - June 2020:** Chongqing University of Education (BEng)
-
 <br>
-
 ---
 
 ## Research Interests
@@ -40,6 +37,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Multimodal learning
 - Multi-label image classification
 
+<br>
 My main research interests are image processing, artificial intelligence 💻 + medical 🏥, with a focus on imaging medicine, and intelligent Chinese medicine diagnosis. My research interests lie in Machine Learning, Computer Vision and Multimodal learning.
 
 <br>

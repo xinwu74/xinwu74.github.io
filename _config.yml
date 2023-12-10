@@ -42,12 +42,12 @@ links:
     url: /
   - title: Publications
     url: /publications/
-  - title: Awards
-    url: /awards/
-  - title: Teams
-    url: /teams/
   - title: Projects
     url: /projects/
+  - title: Awards
+    url: /awards/
+  # - title: Teams
+  #   url: /teams/
   # - title: Notes
     # url: /notes/
   - title: Blogs
