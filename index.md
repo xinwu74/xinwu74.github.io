@@ -8,17 +8,17 @@ layout: page
 
 Here is **Xin Wu (Tina, 吴欣)**.
 
-📖 I am currently a graduate student 🔭, and my main research interests are image processing, artificial intelligence 💻 + medical 🏥, with a focus on imaging medicine, and intelligent Chinese medicine diagnosis. My research interests lie in Machine Learning, Computer Vision and Multimodal learning.
+📖 I am currently a graduate student 🔭.
 
 🤔 Only two things make me move.
 
-i.⌨️ 🧱 Working with Attention. It's all I need.
+i. ⌨️ 🧱 Working with Attention. It's all I need.
 
 ii. Life was like a box of chocolates 🍫. You never know what you're going to get.
 
 iii. ❤️ I like running 🏃‍♀️, eating 🐮, traveling 🏝, and bicycling 🚴.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *wu1351658806[at]163[dot]com*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *wu1351658806[at]163.com*
 
 <br>
 
@@ -26,10 +26,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Exchange)
-- Expect to apply for a one-year Mphil program and graduate in Sep 2025. Looking for PhD position after that.
+- **Sep 2021 - June 2024:** Wuyi University (MEng)
+- **Sep 2016 - June 2020:** Chongqing University of Education (BEng)
 
 <br>
 
@@ -37,11 +35,12 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Industrial IoT System
-- Network Cybersecurity
-- Applied Machine Learning
+- Machine Learning
+- Computer Vision
+- Multimodal learning
+- Multi-label image classification
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My main research interests are image processing, artificial intelligence 💻 + medical 🏥, with a focus on imaging medicine, and intelligent Chinese medicine diagnosis. My research interests lie in Machine Learning, Computer Vision and Multimodal learning.
 
 <br>
 
@@ -49,11 +48,8 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Started research program at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
-
+- **Dec 2023：**One paper was published by KBS (Just over two months)!
+- **Aug 2023：**One paper accepted to PRCV 2023, see you in Xiamen!
+- **Oct 2022：**One paper accepted to Journal of Frontiers of Computer Science and Technology (计算机科学与探索).
 <br>
 
