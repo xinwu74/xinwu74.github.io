@@ -48,8 +48,8 @@ links:
     url: /awards/
   # - title: Teams
   #   url: /teams/
-  # - title: Notes
-    # url: /notes/
+  - title: Notes
+    url: /notes/
   - title: Blogs
     url: /blogs/
 

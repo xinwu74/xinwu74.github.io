@@ -7,7 +7,10 @@ title: Notes
 ## Paper Notes
 
 - Internet of Everything
-- Cyber-security
 - Machine Learning
+- Computer Vision
+- Multimodal learning
+- Multi-label image classification
+- Medical image processing
 
 <br>
