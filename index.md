@@ -2,15 +2,23 @@
 layout: page
 ---
 
-# About Me
+<!-- # About Me -->
 
 <img src="https://xinwu74.github.io/wuxin.jpg" class="floatpic" width="360" height="480">
 
 Here is **Xin Wu (Tina, 吴欣)**.
 
-I am a senior student majoring in **EECS** at Fuzhou University and Maynooth University (Ireland, combined degrees). Currently, I work as a research assistant in the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University.
+📖 I am currently a graduate student 🔭, and my main research interests are image processing, artificial intelligence 💻 + medical 🏥, with a focus on imaging medicine, and intelligent Chinese medicine diagnosis. My research interests lie in Machine Learning, Computer Vision and Multimodal learning.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+🤔 Only two things make me move.
+
+i.⌨️ 🧱 Working with Attention. It's all I need.
+
+ii. Life was like a box of chocolates 🍫. You never know what you're going to get.
+
+❤️ I like running 🏃‍♀️, eating 🐮, traveling 🏝, and bicycling 🚴.
+
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *wu1351658806[at]163[dot]com*
 
 <br>
 
