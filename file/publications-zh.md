@@ -6,7 +6,7 @@ title: Publications-zh
 
 ## 论文
 
-- [CTransCNN: 在多标签医学图像分类中结合Transformer和CNN (英文)](https://xinwu74.github.io/mypaper/classification/20231203CTransCNN.pdf)<br>**吴欣**, 冯跃, 等. (IF 8.8, 中科院一区, 两个月被TOP期刊录用) 
+- [CTransCNN: 在多标签医学图像分类中结合Transformer和CNN (英文)](https://xinwu74.github.io/mypaper/classification/20231203CTransCNN.pdf)<br>**吴欣**, 冯跃, 等. (IF 8.8, 中科院一区, **<font color='red'>两个多月录用</font>**) 
 
 **Demo**
 ![demo](https://xinwu74.github.io/images/demo.gif)

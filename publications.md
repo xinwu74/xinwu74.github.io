@@ -8,7 +8,7 @@ Lastest Update: 20th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://xi
 
 ## Journal Paper
 
-- [CTransCNN: A Hybrid Deep Learning Model Combining Transformer and CNN for Multilabel Medical Image Classification](https://xinwu74.github.io/mypaper/classification/20231203CTransCNN.pdf)<br>**Xin W**, Yue F, et al. (IF 8.8, 中科院一区, **<font color='red'>两个多月录用</font>**) <br>
+- [CTransCNN: A Hybrid Deep Learning Model Combining Transformer and CNN for Multilabel Medical Image Classification](https://xinwu74.github.io/mypaper/classification/20231203CTransCNN.pdf)<br>**Xin W**, Yue F, et al. (IF 8.8, 中科院一区, **<font color='red'>Achieved paper acceptance in just over two months</font>**) <br>
 
 
 **Demo**
@@ -26,8 +26,6 @@ Lastest Update: 20th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://xi
 ## Conference Paper
 
 - [CheXNet: Combing Transformer and CNN for Thorax Disease Diagnosis from Chest X-ray Images](https://xinwu74.github.io/mypaper/Conference/2023PRCV-CheXNet.pdf)&nbsp;[supp](https://xinwu74.github.io/mypaper/Conference/2023PRCV-CheXNet_Supp.pdf)<br>**Xin W**, Yue F, et al. (2023 Chinese Conference on Pattern Recognition and Computer Vision, CCF-C) <br>
-
-<br>
 
 <!-- ## Working Manuscript
 
