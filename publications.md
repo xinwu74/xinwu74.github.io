@@ -6,7 +6,7 @@ title: Publications
 
 Lastest Update: 20th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://xinwu74.github.io/file/publications-zh/)
 
-## Paper
+## Journal Paper
 
 - [CTransCNN: A Hybrid Deep Learning Model Combining Transformer and CNN for Multilabel Medical Image Classification](https://xinwu74.github.io/mypaper/classification/20231203CTransCNN.pdf)<br>**Xin W**, Yue F, et al. (IF 8.8, 中科院一区, **<font color='red'>两个多月录用</font>**) <br>
 
@@ -20,30 +20,33 @@ Lastest Update: 20th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://xi
 
 <br>
 
+
+- [Review of Deep Learning in Classification of Tongue Image](https://xinwu74.github.io/mypaper/review/2022review.pdf)<br>**Xin W**, Hong Xu, Zhuosheng Lin, Shengke Li, Huilin Liu, Yue Feng(*)
+
+## Conference Paper
+
 - [CheXNet: Combing Transformer and CNN for Thorax Disease Diagnosis from Chest X-ray Images](https://xinwu74.github.io/mypaper/Conference/2023PRCV-CheXNet.pdf)<br>**Xin W**, Yue F, et al. (2023 Chinese Conference on Pattern Recognition and Computer Vision, CCF-C) [supp](https://xinwu74.github.io/mypaper/Conference/2023PRCV-CheXNet_Supp.pdf)<br>
 
-- [深度学习在舌象分类中的研究综述](https://xinwu74.github.io/mypaper/review/2022review.pdf)<br>**吴欣**, 徐红, 林卓胜, 李胜可, 刘慧琳, 冯跃
+<br>
 
-## Journal Paper
-
-- Coming soon... 🚀
-
-  <br>
-
-## Working Manuscript
+<!-- ## Working Manuscript
 
 - Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classiﬁcation Machine Learning Techniques<br>Sensors Journal (IF: 3.847). Under major modification.<br>
 
-- Multi-objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>The 5th International Conference on Modeling, Simulation, Optimization and Algorithm. Under working.
+- Multi-objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>The 5th International Conference on Modeling, Simulation, Optimization and Algorithm. Under working. -->
 
-  <br>
+<br>
 
 ---
 
-## Undergraduate Thesis
+## Patens
 
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final Year Project. Under working<br>Expect to submit a research paper to IEEE Internet of Things Journal.
+- Multi-Label Classification Methods, Devices, and Media for TMC Constitution Assessment (2023109747391)
+- A Tongue Diagnosis Method, Apparatus, and Medium (20221113123.5)
+- A Multiscale Detail Enhancement Image Segmentation Method, System, Device, and Medium (2023110557805)
+- An Intelligent Traditional Chinese Medicine Visual Inspection Method, Apparatus, Device, and Medium (CN202211189643.6)
+- A Pulse Diagnosis Method for Classifying the States of the Five Organs, Device, and Storage Medium (202210085539.6)
+- A State Classification Method Based on Interrogative and Observational Data, Device, and Storage Medium (202210019955.6)
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Intern Program for Junior.<br>Industrial Placement Report in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/info/1023/2571.htm)<br>
+---
 
-  <br>
