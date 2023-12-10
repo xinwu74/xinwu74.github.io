@@ -18,8 +18,6 @@ Lastest Update: 20th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://xi
   
 **Abstract:** Multilabel image classification aims to assign images to multiple possible labels. In this task, each image may be associated with multiple labels, making it more challenging than the single-label classification problems. To address these issues, we propose a novel hybrid deep learning model called CTransCNN...
 
-<br>
-
 
 - [Review of Deep Learning in Classification of Tongue Image](https://xinwu74.github.io/mypaper/review/2022review.pdf)<br>**Xin W**, Hong Xu, Zhuosheng Lin, Shengke Li, Huilin Liu, Yue Feng(*)
 
