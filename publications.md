@@ -20,6 +20,10 @@ Lastest Update: 20th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://xi
 
 <br>
 
+- [CheXNet: Combing Transformer and CNN for Thorax Disease Diagnosis from Chest X-ray Images](https://xinwu74.github.io/mypaper/Conference/2023PRCV-CheXNet.pdf)<br>**Xin W**, Yue F, et al. (2023 Chinese Conference on Pattern Recognition and Computer Vision, CCF-C) [supp](https://xinwu74.github.io/mypaper/Conference/2023PRCV-CheXNet_Supp.pdf)<br>
+
+- [深度学习在舌象分类中的研究综述](https://xinwu74.github.io/mypaper/review/2022review.pdf)<br>**吴欣**, 徐红, 林卓胜, 李胜可, 刘慧琳, 冯跃
+
 ## Journal Paper
 
 - Coming soon... 🚀
