@@ -1,6 +1,6 @@
 # GuangLun means Nimbus in Chinese ✨
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**. Here is my personal website. Welcome to fork for free 🥰
+Here is **Xin Wu (Tina, 吴欣)**. Here is my personal website. Welcome to fork for free 🥰
 
 ## Update and News
 
