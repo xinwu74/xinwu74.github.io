@@ -18,11 +18,8 @@ owner:
   # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   scholar: https://scholar.google.com/citations?user=1O2QQB8AAAAJ
   bilibili: 404809876
-  # researchgate: https://www.researchgate.net/profile/Hanlin-Cai
   researchgate: https://www.researchgate.net/profile/Xin-Wu-111
   zhihu: https://www.zhihu.com/people/wu-xin-24-36-6
-  # facebook: caihanlin2002
-  # instagram: lancecai2002
   # lastfm:
   # tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -48,8 +45,8 @@ links:
     url: /awards/
   # - title: Teams
   #   url: /teams/
-  - title: Notes
-    url: /notes/
+  # - title: Notes
+  #   url: /notes/
   - title: Blogs
     url: /blogs/
 
@@ -83,7 +80,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: tinawu
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
