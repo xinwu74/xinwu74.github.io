@@ -6,22 +6,22 @@ title: Blogs
 
 ## Chinese Blogs
 
-### 2024
+<!-- ### 2024
 
-- [24Fall，英国硕士项目申请实录](https://xinwu74.github.io/blogs/24fall/)
+- [24Fall，英国硕士项目申请实录](https://xinwu74.github.io/blogs/24fall/) -->
 
 ### 2023
 
-- [21岁，何妨吟啸且徐行](https://xinwu74.github.io/blogs/21yrs)<br>
-- [极简风个人网站搭建指南](https://xinwu74.github.io/blogs/web)<br>
+- [深度学习】分类和分割常见损失函数](https://xinwu74.github.io/blogs/2023loss)<br>
+<!-- - [极简风个人网站搭建指南](https://xinwu74.github.io/blogs/web)<br>
 - [海外暑研申请指南](https://xinwu74.github.io/blogs/summer-res)<br>
-- [数学建模竞赛的成功四要素](https://xinwu74.github.io/blogs/team2023)
+- [数学建模竞赛的成功四要素](https://xinwu74.github.io/blogs/team2023) -->
 
-### 2022
+<!-- ### 2022
 
 - [20岁，宽心且看月中桂](https://xinwu74.github.io/blogs/20yrs)<br>
 - [Cambridge 线上暑研回忆录](https://xinwu74.github.io/blogs/cambridge/)<br>
-- [暂停、暂停、暂停](https://xinwu74.github.io/blogs/stop/)
+- [暂停、暂停、暂停](https://xinwu74.github.io/blogs/stop/) -->
 
 <!-- ### 2021
 
