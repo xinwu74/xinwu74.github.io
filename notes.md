@@ -24,3 +24,9 @@ title: Notes
 {% include disqus.html %} 
 
 <br>
+
+### Feel free to connect on WeChat. Please include a brief note about the purpose of the connection. ✨
+
+<center>
+<img src="/images/wechat.PNG">
+</center>

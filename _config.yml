@@ -45,10 +45,10 @@ links:
     url: /awards/
   # - title: Teams
   #   url: /teams/
-  # - title: Notes
-  #   url: /notes/
-  - title: Blogs
-    url: /blogs/
+  - title: Notes
+    url: /notes/
+  # - title: Blogs
+  #   url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
