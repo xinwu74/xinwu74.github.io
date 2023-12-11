@@ -12,7 +12,7 @@ title: Blogs
 
 ### 2023
 
-- [深度学习】分类和分割常见损失函数](https://xinwu74.github.io/blogs/2023loss)<br>
+- [深度学习】分类和分割常见损失函数](https://xinwu74.github.io/blogs/2023loss)
 <!-- - [极简风个人网站搭建指南](https://xinwu74.github.io/blogs/web)<br>
 - [海外暑研申请指南](https://xinwu74.github.io/blogs/summer-res)<br>
 - [数学建模竞赛的成功四要素](https://xinwu74.github.io/blogs/team2023) -->
