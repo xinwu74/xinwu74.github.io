@@ -1,4 +1,4 @@
-# GuangLun means Nimbus in Chinese ✨
+# Hello ✨
 
 Here is **Xin Wu (Tina, 吴欣)**. Here is my personal website. Welcome to fork for free 🥰
 
