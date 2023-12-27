@@ -8,6 +8,8 @@ layout: page
 
 Here is **Xin Wu (Tina, 吴欣)**.
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100" title=" Say HI">
+
 📖 I am currently a graduate student 🔭. My main research interests are image processing, artificial intelligence 💻 + medical 🏥, with a focus on imaging medicine, and intelligent Chinese medicine diagnosis. My research interests lie in Machine Learning, Computer Vision and Multimodal learning.
 
 🤔 Only two things make me move.
