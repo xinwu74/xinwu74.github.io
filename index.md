@@ -18,7 +18,7 @@ ii. Life was like a box of chocolates 🍫. You never know what you're going to 
 
 iii. ❤️ I like running 🏃‍♀️, eating 🐮, traveling 🏝, and bicycling 🚴.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at **wu1351658806[at]163.com**
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at **wu1351658806[at]163.com** or **xinwu5386[at]gmail.com** .
 <br>
 
 ## Academic Background
