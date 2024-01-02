@@ -8,7 +8,7 @@ Lastest Update: 20th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://xi
 
 ## Journal Paper
 
-- [CTransCNN: A Hybrid Deep Learning Model Combining Transformer and CNN for Multilabel Medical Image Classification](https://xinwu74.github.io/mypaper/classification/20231203CTransCNN.pdf)  &nbsp;&nbsp; [https://doi.org/10.1016/j.knosys.2023.111030](https://www.sciencedirect.com/science/article/pii/S0950705123007803/pdfft?md5=7f2bdad23f7c5b990a56900f0d00cc43&pid=1-s2.0-S0950705123007803-main.pdf) <br>**Xin W**, Yue F, et al. (IF 8.8, Top, **<font color='red'>Achieved paper acceptance in just over two months</font>**) &nbsp;&nbsp;[Code](https://github.com/wuliwuxin/CTransCNN)<br>
+- [CTransCNN: Combining Transformer and CNN in Multilabel Medical Image Classification](https://xinwu74.github.io/mypaper/classification/20231203CTransCNN.pdf)  &nbsp;&nbsp; [https://doi.org/10.1016/j.knosys.2023.111030](https://www.sciencedirect.com/science/article/pii/S0950705123007803/pdfft?md5=7f2bdad23f7c5b990a56900f0d00cc43&pid=1-s2.0-S0950705123007803-main.pdf) <br>**Xin W**, Yue F, et al. (IF 8.8, Top, **<font color='red'>Achieved paper acceptance in just over two months</font>**) &nbsp;&nbsp;[Code](https://github.com/wuliwuxin/CTransCNN)<br>
 
 
 **Demo**
