@@ -4,10 +4,7 @@ permalink: /file/publications-zh/index.html
 title: Publications-zh
 ---
 
-## 论文
-
-## Journal Paper
-
+## 期刊论文
 
 <table>
   <tr>
@@ -34,7 +31,7 @@ title: Publications-zh
 </table>
 
 
-## Conference Paper
+## 会议论文
 
 <table>
   <tr>
