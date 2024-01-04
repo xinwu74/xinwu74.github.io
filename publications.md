@@ -13,8 +13,8 @@ Lastest Update: 20th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://xi
 
 <table>
   <tr>
-    <td width="300px" valign="top"> <!-- 设置左侧单元格的宽度 -->
-      <img src="your_image_url.jpg" style="max-width: 100%; height: auto;"> <!-- 图片自适应单元格宽度 -->
+    <td width="600px" valign="top"> <!-- 设置左侧单元格的宽度 -->
+      <img src="https://xinwu74.github.io/images/model.png" style="max-width: 100%; height: auto;"> <!-- 图片自适应单元格宽度 -->
     </td>
     <td valign="top">
       <p>CTransCNN: Combining Transformer and CNN in Multilabel Medical Image Classification(https://xinwu74.github.io//publications/2023-12-03-paper-CTransCNN/)</p>
