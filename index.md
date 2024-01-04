@@ -42,9 +42,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ---
 
-## News and Updates
+## News ⚡️
 
-- **Dec 2023：**One paper was published by KBS (Just over two months)!
+- **Dec 2023：**One paper was published by KBS (Just over two months)! 🔥
 - **Aug 2023：**One paper accepted to PRCV 2023, see you in Xiamen!
 - **Oct 2022：**One paper accepted to Journal of Frontiers of Computer Science and Technology.
 <br>
