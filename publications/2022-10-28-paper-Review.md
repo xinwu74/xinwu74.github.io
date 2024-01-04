@@ -17,6 +17,9 @@ With the rapid development of technology and the improvement of computing power,
 
 `traditional Chinese medicine tongue diagnosis` `deep learning` `tongue image analysis` `tongue image classification`
 
+
+<img src="https://xinwu74.github.io/publications/picture_model/Review.png" style="max-width: 100%; height: 100%;">
+
 <br>
 
 ```bash

@@ -16,9 +16,6 @@ DOI: [10.1007/978-981-99-8558-6_7](https://link.springer.com/chapter/10.1007/978
 
 <br>
 
-**Model**
-![model](https://xinwu74.github.io/publications/picture_model/CheXNet.png)
-
 
 ## Abstract
 <br>
@@ -28,6 +25,10 @@ Multi-label chest X-ray (CXR) image classification aims to perform multiple dise
 ### Keywords
 
 `Hybird network` `Multi-label` `Chest X-ray image`
+
+
+**Model**
+![model](https://xinwu74.github.io/publications/picture_model/CheXNet.png)
 
 <br>
 
