@@ -10,6 +10,13 @@ title: 2022-10-28-paper-Review
 
 **Xin W**, Hong Xu, Zhuosheng Lin, Shengke Li, Huilin Liu, Yue Feng(*)
 
+## Abstract
+With the rapid development of technology and the improvement of computing power, deep learning will be widely used in the field of tongue classification. The classification of tongue image is an important part of tongue diagnosis in traditional Chinese medicine (TCM). Traditional tongue diagnosis is dependent on understanding and judgment skills gained from personal experience under the guidance of basic theory, which leads to ambiguity and variability, affecting diagnostic reproducibility. In order to reduce the error of subjective judgment, many researchers have devoted themselves to realizing the objectification, quantification and automation of tongue diagnosis in TCM through deep learning. This paper analyzes and summarizes the research status of tongue image classification methods based on deep learning. In the study of tongue image classification, various deep learning methods are used as the research objects. The research objects are divided into categories based on early neural networks, convolutional neural networks, regional convolutional neural networks, transfer learning and other methods for summary analysis. TCM syndromes/diseases in tongue diagnosis and classification of physical constitution are discussed. A 5-fold cross-validation experiment is conducted with the public tongue diagnosis dataset on Kaggle. The dataset is a small sample of the dentate tongue, and the classification methods based on deep learning and transfer learning are evaluated. The research development of single-label and multi-label classification is discussed and prospected.
+
+### Key words:
+
+`traditional Chinese medicine tongue diagnosis` `deep learning` `tongue image analysis` `tongue image classification`
+
 <br>
 
 ```bash
