@@ -13,7 +13,7 @@ title: Publications-zh
     </td>
     <td style="text-align: left;">
       <p style="font-size: 16px;"><a href="https://xinwu74.github.io//publications/2023-12-03-paper-CTransCNN/"><b>CTransCNN: 在多标签医学图像分类中结合Transformer和CNN (英文)</b></a> </p>
-      <p style="font-size: 16px;"> IF 8.8, 中科院一区, <b><font color='red'>两个多月录用</font></b> <b>吴欣</b>, 冯跃, 等.</p>
+      <p style="font-size: 16px;">  <b>吴欣</b>, 冯跃, 等.<b> IF 8.8, Top期刊, </b> <b><font color='red'>两个多月录用</font></b></p>
       <p style="font-size: 16px;"><a href="https://www.sciencedirect.com/science/article/pii/S0950705123007803" style="color: blue;">论文</a> &nbsp;&nbsp;<a href="https://xinwu74.github.io/mypaper/classification/20231203CTransCNN.pdf" style="color: blue;">下载</a> &nbsp;&nbsp;<a href="https://github.com/wuliwuxin/CTransCNN" style="color: blue;">代码</a>&nbsp;&nbsp;<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:_o9ONaHFjEEJ:scholar.google.com/&output=citation&scisdr=ClHYkEj1EIPJvTogxbA:AFWwaeYAAAAAZZYm3bGMd9pFdweNG31xjHWQnP8&scisig=AFWwaeYAAAAAZZYm3VSfz0F7TZLxQfP4Th_3O9Q&scisf=4&ct=citation&cd=-1&hl=zh-CN" style="color: blue;">BibTeX</a></p>
     </td>
   </tr>
