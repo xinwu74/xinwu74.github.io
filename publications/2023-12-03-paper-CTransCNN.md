@@ -10,8 +10,8 @@ title: 2023-12-03-paper-CTransCNN
 **Demo**
 ![demo](https://xinwu74.github.io/images/demo.gif)
 **Model**
-![model](https://xinwu74.github.io/images/model.png)
-  
+![model](https://xinwu74.github.io/publications/picture_model/CTransCNN.png)
+
 **Abstract:** Multilabel image classification aims to assign images to multiple possible labels. In this task, each image may be associated with multiple labels, making it more challenging than the single-label classification problems. To address these issues, we propose a novel hybrid deep learning model called CTransCNN...
 
 ```bash
@@ -23,5 +23,6 @@ title: 2023-12-03-paper-CTransCNN
   pages={111030},
   year={2023},
   publisher={Elsevier}
+  doi ={10.1016/j.knosys.2023.111030}
 }
 ```

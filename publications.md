@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 20th Oct 2023 &nbsp;  [中文版本 (Chinese Version)](https://xinwu74.github.io/file/publications-zh/)
+Lastest Update: Jan. 4, 2024 &nbsp;  [中文版本 (Chinese Version)](https://xinwu74.github.io/file/publications-zh/)
 
 ## Journal Paper
 
@@ -16,7 +16,7 @@ Lastest Update: 20th Oct 2023 &nbsp;  [中文版本 (Chinese Version)](https://x
     </td>
     <td valign="Center">
       <p style="font-size: 16px;"><a href="https://xinwu74.github.io//publications/2023-12-03-paper-CTransCNN/"><b>CTransCNN: Combining Transformer and CNN in Multilabel Medical Image Classification</b></a></p>
-      <p style="font-size: 16px;"><a href="https://www.sciencedirect.com/science/article/pii/S0950705123007803" style="color: blue;">Paper</a>&nbsp;<a href="https://github.com/wuliwuxin/CTransCNN" style="color: blue;">Code</a>&nbsp;<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:_o9ONaHFjEEJ:scholar.google.com/&output=citation&scisdr=ClHYkEj1EIPJvTogxbA:AFWwaeYAAAAAZZYm3bGMd9pFdweNG31xjHWQnP8&scisig=AFWwaeYAAAAAZZYm3VSfz0F7TZLxQfP4Th_3O9Q&scisf=4&ct=citation&cd=-1&hl=zh-CN" style="color: blue;">BibTeX</a></p>
+      <p style="font-size: 16px;"><a href="https://www.sciencedirect.com/science/article/pii/S0950705123007803" style="color: blue;">Paper</a> <a href="https://github.com/wuliwuxin/CTransCNN" style="color: blue;">Code</a>&nbsp;<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:_o9ONaHFjEEJ:scholar.google.com/&output=citation&scisdr=ClHYkEj1EIPJvTogxbA:AFWwaeYAAAAAZZYm3bGMd9pFdweNG31xjHWQnP8&scisig=AFWwaeYAAAAAZZYm3VSfz0F7TZLxQfP4Th_3O9Q&scisf=4&ct=citation&cd=-1&hl=zh-CN" style="color: blue;">BibTeX</a></p>
     </td>
   </tr>
 </table>
