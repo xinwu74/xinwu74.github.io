@@ -16,7 +16,7 @@ Lastest Update: Jan. 4, 2024 &nbsp;  [中文版本 (Chinese Version)](https://xi
     </td>
     <td style="text-align: left;">
       <p style="font-size: 16px;"><a href="https://xinwu74.github.io//publications/2023-12-03-paper-CTransCNN/"><b>CTransCNN: Combining Transformer and CNN in Multilabel Medical Image Classification</b></a></p>
-      <p style="font-size: 16px;"><b>Xin W</b>, Yue F. et al. <b>IF 8.8, Top,</b> <font color='red'>Achieved paper acceptance in <b> just over two months</font> </b></p>
+      <p style="font-size: 16px;"><b>Xin W</b>, Yue F. et al. <b>IF 8.8, Top,</b> <font color='red'>Achieved paper acceptance in <b> just over two months</b></font> </p>
       <p style="font-size: 16px;"><a href="https://www.sciencedirect.com/science/article/pii/S0950705123007803" style="color: blue;">Paper</a> &nbsp;&nbsp;<a href="https://xinwu74.github.io/mypaper/classification/20231203CTransCNN.pdf" style="color: blue;">Download</a> &nbsp;&nbsp;<a href="https://github.com/wuliwuxin/CTransCNN" style="color: blue;">Code</a>&nbsp;&nbsp;<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:_o9ONaHFjEEJ:scholar.google.com/&output=citation&scisdr=ClHYkEj1EIPJvTogxbA:AFWwaeYAAAAAZZYm3bGMd9pFdweNG31xjHWQnP8&scisig=AFWwaeYAAAAAZZYm3VSfz0F7TZLxQfP4Th_3O9Q&scisf=4&ct=citation&cd=-1&hl=zh-CN" style="color: blue;">BibTeX</a></p>
     </td>
   </tr>
