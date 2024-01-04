@@ -8,21 +8,20 @@ Lastest Update: 20th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://xi
 
 ## Journal Paper
 
-- [CTransCNN: Combining Transformer and CNN in Multilabel Medical Image Classification](https://xinwu74.github.io//publications/2023-12-03-paper-CTransCNN/)
+<!-- - [CTransCNN: Combining Transformer and CNN in Multilabel Medical Image Classification](https://xinwu74.github.io//publications/2023-12-03-paper-CTransCNN/)
+ -->
 
-<div align="center">
-<table rules="none">
-<tr>
-<td>
-<img src="https://xinwu74.github.io/images/model.png" style="zoom:80%"/>
-</td>
-<td>
-<p>CTransCNN: Combining Transformer and CNN in Multilabel Medical Image Classification(https://xinwu74.github.io//publications/2023-12-03-paper-CTransCNN/)</p>
-<p>文字</p>
-</td>
-</tr>
-</table>    
-</div>
+<table>
+  <tr>
+    <td width="300px" valign="top"> <!-- 设置左侧单元格的宽度 -->
+      <img src="your_image_url.jpg" style="max-width: 100%; height: auto;"> <!-- 图片自适应单元格宽度 -->
+    </td>
+    <td valign="top">
+      <p>CTransCNN: Combining Transformer and CNN in Multilabel Medical Image Classification(https://xinwu74.github.io//publications/2023-12-03-paper-CTransCNN/)</p>
+    </td>
+  </tr>
+</table>
+
 
 - [Review of Deep Learning in Classification of Tongue Image](https://xinwu74.github.io/mypaper/review/2022review.pdf)<br>**Xin W**, Hong Xu, Zhuosheng Lin, Shengke Li, Huilin Liu, Yue Feng(*)
 
