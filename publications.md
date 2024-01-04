@@ -26,7 +26,7 @@ Lastest Update: Jan. 4, 2024 &nbsp;  [中文版本 (Chinese Version)](https://xi
     <td width="33%" valign="Center"> <!-- 设置左侧单元格的宽度 -->
       <img src="https://xinwu74.github.io/publications/picture_model/Review.png" style="max-width: 100%; height: auto;"> <!-- 图片自适应单元格宽度 -->
     </td>
-    <td valign="Center" style="text-align: left;">
+    <td style="text-align: left;">
       <p style="font-size: 16px;"><a href="https://xinwu74.github.io//publications/2022-10-28-paper-Review/"><b>Review of Deep Learning in Classification of Tongue Image</b></a></p>
       <p style="font-size: 16px;"><a href="https://kns.cnki.net/kcms2/article/abstract?v=vs6GoGUIqCNTlLRE8rAew89_2frASlqBYDW5yBqSuUsLAQGslZ-fE-4I3Qs7SDvrJgFdCKfZ0XAeWVrhW7XXKxFP3wzvJdNuRM3yDy2s6jC4IrWvfwBEVK3iQ8oGTMd9O-MWfwnRkxUpkdeylmPwyw==&uniplatform=NZKPT&language=CHS" style="color: blue;">Paper</a>&nbsp;<a href="https://xinwu74.github.io/mypaper/review/2022review.pdf" style="color: blue;">Download</a>&nbsp;<a href="http://fcst.ceaj.org/CN/article/getTxtFile.do?fileType=BibTeX&id=3181" style="color: blue;">BibTeX</a></p>
     </td>
