@@ -13,7 +13,7 @@ Lastest Update: 20th Oct 2023 &nbsp;  [中文版本 (Chinese Version)](https://x
 
 <table>
   <tr>
-    <td width="1600px" valign="Center"> <!-- 设置左侧单元格的宽度 -->
+    <td width="33%" valign="Center"> <!-- 设置左侧单元格的宽度 -->
       <img src="https://xinwu74.github.io/images/model.png" style="max-width: 100%; height: auto;"> <!-- 图片自适应单元格宽度 -->
     </td>
     <td valign="Center">
