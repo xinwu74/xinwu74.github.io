@@ -14,7 +14,7 @@ Lastest Update: Jan. 4, 2024 &nbsp;  [中文版本 (Chinese Version)](https://xi
     <td width="33%" valign="Center"> <!-- 设置左侧单元格的宽度 -->
       <img src="https://xinwu74.github.io/publications/picture_model/CTransCNN.png" style="max-width: 100%; height: auto;"> <!-- 图片自适应单元格宽度 -->
     </td>
-    <td valign="Center">
+    <td valign="bottom">
       <p style="font-size: 16px;"><a href="https://xinwu74.github.io//publications/2023-12-03-paper-CTransCNN/"><b>CTransCNN: Combining Transformer and CNN in Multilabel Medical Image Classification</b></a></p>
       <p style="font-size: 16px;"><a href="https://www.sciencedirect.com/science/article/pii/S0950705123007803" style="color: blue;">Paper</a> <a href="https://github.com/wuliwuxin/CTransCNN" style="color: blue;">Code</a>&nbsp;<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:_o9ONaHFjEEJ:scholar.google.com/&output=citation&scisdr=ClHYkEj1EIPJvTogxbA:AFWwaeYAAAAAZZYm3bGMd9pFdweNG31xjHWQnP8&scisig=AFWwaeYAAAAAZZYm3VSfz0F7TZLxQfP4Th_3O9Q&scisf=4&ct=citation&cd=-1&hl=zh-CN" style="color: blue;">BibTeX</a></p>
     </td>
