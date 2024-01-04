@@ -8,6 +8,7 @@ title: Publications-zh
 
 - [CTransCNN: 在多标签医学图像分类中结合Transformer和CNN (英文)](https://xinwu74.github.io/mypaper/classification/20231203CTransCNN.pdf)&nbsp;&nbsp; [https://doi.org/10.1016/j.knosys.2023.111030](https://www.sciencedirect.com/science/article/pii/S0950705123007803/pdfft?md5=7f2bdad23f7c5b990a56900f0d00cc43&pid=1-s2.0-S0950705123007803-main.pdf) <br>**吴欣**, 冯跃, 等. (IF 8.8, 中科院一区, **<font color='red'>两个多月录用</font>**)&nbsp;&nbsp;[代码](https://github.com/wuliwuxin/CTransCNN) <br>
 
+
 **Demo**
 ![demo](https://xinwu74.github.io/images/demo.gif)
 **Model**
