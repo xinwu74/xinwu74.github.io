@@ -6,24 +6,51 @@ title: Publications-zh
 
 ## 论文
 
-- [CTransCNN: 在多标签医学图像分类中结合Transformer和CNN (英文)](https://xinwu74.github.io/mypaper/classification/20231203CTransCNN.pdf)&nbsp;&nbsp; [https://doi.org/10.1016/j.knosys.2023.111030](https://www.sciencedirect.com/science/article/pii/S0950705123007803/pdfft?md5=7f2bdad23f7c5b990a56900f0d00cc43&pid=1-s2.0-S0950705123007803-main.pdf) <br>**吴欣**, 冯跃, 等. (IF 8.8, 中科院一区, **<font color='red'>两个多月录用</font>**)&nbsp;&nbsp;[代码](https://github.com/wuliwuxin/CTransCNN) <br>
+## Journal Paper
 
 
-**Demo**
-![demo](https://xinwu74.github.io/images/demo.gif)
-**Model**
-![model](https://xinwu74.github.io/images/model.png)
+<table>
+  <tr>
+    <td width="33%" valign="Center"> <!-- 设置左侧单元格的宽度 -->
+      <img src="https://xinwu74.github.io/publications/picture_model/CTransCNN.png" style="max-width: 100%; height: auto;"> <!-- 图片自适应单元格宽度 -->
+    </td>
+    <td valign="Center" style="text-align: justify;">
+      <p style="font-size: 16px;"><a href="https://xinwu74.github.io//publications/2023-12-03-paper-CTransCNN/"><b>CTransCNN: 在多标签医学图像分类中结合Transformer和CNN (英文)</b></a> (IF 8.8, 中科院一区, **<font color='red'>两个多月录用</font>**) <b>吴欣</b>, 冯跃, 等.</p>
+      <p style="font-size: 16px;"><a href="https://www.sciencedirect.com/science/article/pii/S0950705123007803" style="color: blue;">论文</a> &nbsp;&nbsp;<a href="https://xinwu74.github.io/mypaper/classification/20231203CTransCNN.pdf" style="color: blue;">下载</a> &nbsp;&nbsp;<a href="https://github.com/wuliwuxin/CTransCNN" style="color: blue;">代码</a>&nbsp;&nbsp;<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:_o9ONaHFjEEJ:scholar.google.com/&output=citation&scisdr=ClHYkEj1EIPJvTogxbA:AFWwaeYAAAAAZZYm3bGMd9pFdweNG31xjHWQnP8&scisig=AFWwaeYAAAAAZZYm3VSfz0F7TZLxQfP4Th_3O9Q&scisf=4&ct=citation&cd=-1&hl=zh-CN" style="color: blue;">BibTeX</a></p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="33%" valign="Center"> <!-- 设置左侧单元格的宽度 -->
+      <img src="https://xinwu74.github.io/publications/picture_model/Review.png" style="max-width: 100%; height: auto;"> <!-- 图片自适应单元格宽度 -->
+    </td>
+    <td style="text-align: justify;">
+      <p style="font-size: 16px;"><a href="https://xinwu74.github.io//publications/2022-10-28-paper-Review/"><b>深度学习在舌象分类中的研究综述</b></a> &nbsp; <b>吴欣</b>, 徐红, et al.</p>
+      <p style="font-size: 16px;"><a href="https://kns.cnki.net/kcms2/article/abstract?v=vs6GoGUIqCNTlLRE8rAew89_2frASlqBYDW5yBqSuUsLAQGslZ-fE-4I3Qs7SDvrJgFdCKfZ0XAeWVrhW7XXKxFP3wzvJdNuRM3yDy2s6jC4IrWvfwBEVK3iQ8oGTMd9O-MWfwnRkxUpkdeylmPwyw==&uniplatform=NZKPT&language=CHS" style="color: blue;">论文</a>&nbsp;&nbsp;<a href="https://xinwu74.github.io/mypaper/review/2022review.pdf" style="color: blue;">下载</a>&nbsp;&nbsp;<a href="http://fcst.ceaj.org/CN/article/getTxtFile.do?fileType=BibTeX&id=3181" style="color: blue;">BibTeX</a></p>
+    </td>
+  </tr>
+</table>
 
 
-**摘要:** 多标签图像分类旨在将图像分配给多个可能的标签。在这个任务中，每个图像可能与多个标签相关联，这使得它比单标签分类问题更具挑战性。为解决这些调整，我们提出了一种新颖的深度学习模型，名为CTransCNN...
+## Conference Paper
 
+<table>
+  <tr>
+    <td width="33%" valign="Center"> <!-- 设置左侧单元格的宽度 -->
+      <img src="https://xinwu74.github.io/publications/picture_model/CheXNet.png" style="max-width: 100%; height: auto;"> <!-- 图片自适应单元格宽度 -->
+    </td>
+    <td valign="Center" style="text-align: justify;">
+      <p style="font-size: 16px;"><a href="https://xinwu74.github.io//publications/2023-12-26-conference-CheXNet/"><b>CheXNet: Combing Transformer and CNN for Thorax Disease Diagnosis from Chest X-ray Images  (英文)</b></a> <b>吴欣</b>, 冯跃, 等. </p>
+      <p style="font-size: 16px;"><a href="https://link.springer.com/chapter/10.1007/978-981-99-8558-6_7" style="color: blue;">论文</a>&nbsp;&nbsp;<a href="https://xinwu74.github.io/mypaper/Conference/2023PRCV-CheXNet.pdf" style="color: blue;">Down下载load</a> &nbsp;&nbsp;<a href="https://github.com/wuliwuxin/CheXNet" style="color: blue;">代码</a>&nbsp;&nbsp;<a href="https://citation-needed.springer.com/v2/references/10.1007/978-981-99-8558-6_7?format=bibtex&flavour=citation" style="color: blue;">BibTeX</a></p>
+    </td>
+  </tr>
+</table>
 
-- [深度学习在舌象分类中的研究综述](https://xinwu74.github.io/mypaper/review/2022review.pdf)<br>**吴欣**, 徐红, 林卓胜, 李胜可, 刘慧琳, 冯跃(*)
-
-## 会议论文
-- [CheXNet: Combing Transformer and CNN for Thorax Disease Diagnosis from Chest X-ray Images](https://xinwu74.github.io/mypaper/Conference/2023PRCV-CheXNet.pdf)&nbsp;&nbsp;[DOI: 10.1007/978-981-99-8558-6_7](https://link.springer.com/chapter/10.1007/978-981-99-8558-6_7)[附录](https://xinwu74.github.io/mypaper/Conference/2023PRCV-CheXNet_Supp.pdf)  <br>**吴欣**, 冯跃, 等. (2023 Chinese Conference on Pattern Recognition and Computer Vision, CCF-C)  &nbsp;&nbsp;[代码](https://github.com/wuliwuxin/CheXNet) <br>
 
 <br>
+
 ## 专利
 - 体质多标签分类方法、设备及介质 (2023109747391)
 - 一种舌诊方法、设备和介质 (20221113123.5)
@@ -36,4 +63,4 @@ title: Publications-zh
 <!-- ## 软著 -->
 
 
-更新时间：2023/12/10 &nbsp;  [English Version (英文)](https://xinwu74.github.io/publications/)
+更新时间：2024/1/04 &nbsp;  [English Version (英文)](https://xinwu74.github.io/publications/)
