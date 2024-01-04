@@ -14,7 +14,8 @@ title: 2023-12-03-paper-CTransCNN
   
 **Abstract:** Multilabel image classification aims to assign images to multiple possible labels. In this task, each image may be associated with multiple labels, making it more challenging than the single-label classification problems. To address these issues, we propose a novel hybrid deep learning model called CTransCNN...
 
-> @article{wu2023ctranscnn,
+```bash
+ @article{wu2023ctranscnn,
   title={CTransCNN: Combining transformer and CNN in multilabel medical image classification},
   author={Wu, Xin and Feng, Yue and Xu, Hong and Lin, Zhuosheng and Chen, Tao and Li, Shengke and Qiu, Shihan and Liu, Qichao and Ma, Yuangang and Zhang, Shuangsheng},
   journal={Knowledge-Based Systems},
@@ -23,3 +24,4 @@ title: 2023-12-03-paper-CTransCNN
   year={2023},
   publisher={Elsevier}
 }
+```
