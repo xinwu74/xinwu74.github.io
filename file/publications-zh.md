@@ -20,7 +20,7 @@ title: Publications-zh
 - [深度学习在舌象分类中的研究综述](https://xinwu74.github.io/mypaper/review/2022review.pdf)<br>**吴欣**, 徐红, 林卓胜, 李胜可, 刘慧琳, 冯跃(*)
 
 ## 会议论文
-- [CheXNet: Combing Transformer and CNN for Thorax Disease Diagnosis from Chest X-ray Images](https://xinwu74.github.io/mypaper/Conference/2023PRCV-CheXNet.pdf)&nbsp;[附录](https://xinwu74.github.io/mypaper/Conference/2023PRCV-CheXNet_Supp.pdf)  <br>**吴欣**, 冯跃, 等. (2023 Chinese Conference on Pattern Recognition and Computer Vision, CCF-C) <br>
+- [CheXNet: Combing Transformer and CNN for Thorax Disease Diagnosis from Chest X-ray Images](https://xinwu74.github.io/mypaper/Conference/2023PRCV-CheXNet.pdf)&nbsp;&nbsp;[DOI: 10.1007/978-981-99-8558-6_7](https://link.springer.com/chapter/10.1007/978-981-99-8558-6_7)[附录](https://xinwu74.github.io/mypaper/Conference/2023PRCV-CheXNet_Supp.pdf)  <br>**吴欣**, 冯跃, 等. (2023 Chinese Conference on Pattern Recognition and Computer Vision, CCF-C)  &nbsp;&nbsp;[代码](https://github.com/wuliwuxin/CheXNet) <br>
 
 <br>
 ## 专利
