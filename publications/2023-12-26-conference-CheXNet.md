@@ -40,6 +40,7 @@ Multi-label chest X-ray (CXR) image classification aims to perform multiple dise
   pages={73--84},
   year={2023},
   organization={Springer},
+  location={Singapore},
   doi={10.1007/978-981-99-8558-6_7}
 }
 ```

@@ -37,13 +37,14 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Machine Learning
 - Computer Vision
 - Multimodal learning
-- Multi-label image classification
+- Multilabel image classification
 - Medical image processing
 
 ---
 
 ## News ⚡️
-
+- **June 2024：** I will start my Ph.D. studies at Southwest Jiaotong University in the fall of 2024! 🎉**
+- **April 2024：** I submitted a paper to the ACM MM conference and am keeping my fingers crossed for a favorable response. 🙏 **
 - **Dec 2023：**One paper was published by KBS (Just over two months)! 🔥
 - **Aug 2023：**One paper accepted to PRCV 2023, see you in Xiamen!
 - **Oct 2022：**One paper accepted to Journal of Frontiers of Computer Science and Technology.
