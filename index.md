@@ -24,9 +24,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 <br>
 
 ## Academic Background
-
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
-
+<!-- - **Sep 2024 - Now:** Xinan Jiaotong University (Ph.D) -->
 - **Sep 2021 - June 2024:** Wuyi University (MEng)
 - **Sep 2016 - June 2020:** Chongqing University of Education (BEng)
 
