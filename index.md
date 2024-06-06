@@ -20,7 +20,9 @@ ii. Life was like a box of chocolates 🍫. You never know what you're going to 
 
 iii. ❤️ I like running 🏃‍♀️, eating 🐮, traveling 🏝, and bicycling 🚴.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at **wu1351658806[at]163.com** or **xinwu5386[at]gmail.com** .
+<!-- If you are interested in any aspect of me, I would love to chat and collaborate, please email me at **wu1351658806[at]163.com** or **xinwu5386[at]gmail.com** . -->
+
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me.
 <br>
 
 ## Academic Background
@@ -42,7 +44,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## News ⚡️
 - **June 2024：** I will start my Ph.D. studies at Southwest Jiaotong University in the fall of 2024! 🎉
-- **April 2024：** I submitted a paper to the ACM MM conference and am keeping my fingers crossed for a favorable response. 🙏 **
+- **April 2024：** I submitted a paper to the ACM MM conference and am keeping my fingers crossed for a favorable response (ACM MM2024). 🙏 **
 - **Dec 2023：**One paper was published by KBS (Just over two months)! 🔥
 - **Aug 2023：**One paper accepted to PRCV 2023, see you in Xiamen!
 - **Oct 2022：**One paper accepted to Journal of Frontiers of Computer Science and Technology.
