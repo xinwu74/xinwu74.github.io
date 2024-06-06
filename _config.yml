@@ -3,7 +3,7 @@ title: Xin Wu
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
 url: https://xinwu74.github.io
-
+repository: "xinwu74/xinwu74.github.io"
 # Owner/author information
 owner:
   name: Xin WU
@@ -18,6 +18,7 @@ owner:
   # linkedin: hanlincai
   # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   scholar: https://scholar.google.com/citations?user=1O2QQB8AAAAJ
+  orcid: https://orcid.org/0009-0008-2292-4534
   # bilibili: 404809876
   researchgate: https://www.researchgate.net/profile/Xin-Wu-111
   # zhihu: https://www.zhihu.com/people/wu-xin-24-36-6
