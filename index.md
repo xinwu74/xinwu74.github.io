@@ -24,7 +24,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 <br>
 
 ## Academic Background
-<!-- - **Sep 2024 - Now:** Xinan Jiaotong University (Ph.D) -->
+<!-- - **Sep 2024 - Now:** Southwest Jiaotong University (Ph.D) -->
 - **Sep 2021 - June 2024:** Wuyi University (MEng)
 - **Sep 2016 - June 2020:** Chongqing University of Education (BEng)
 
@@ -41,7 +41,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ---
 
 ## News ⚡️
-- **June 2024：** I will start my Ph.D. studies at Southwest Jiaotong University in the fall of 2024! 🎉**
+- **June 2024：** I will start my Ph.D. studies at Southwest Jiaotong University in the fall of 2024! 🎉
 - **April 2024：** I submitted a paper to the ACM MM conference and am keeping my fingers crossed for a favorable response. 🙏 **
 - **Dec 2023：**One paper was published by KBS (Just over two months)! 🔥
 - **Aug 2023：**One paper accepted to PRCV 2023, see you in Xiamen!
