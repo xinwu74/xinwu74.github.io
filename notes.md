@@ -6,12 +6,10 @@ title: Notes
 
 ## Paper Notes
 
-- Internet of Everything
+- Reliable AI
 - Machine Learning
-- Computer Vision
+- Time Series
 - Multimodal learning
-- Multi-label image classification
-- Medical image processing
 
 <br>
 
@@ -27,6 +25,6 @@ title: Notes
 
 ### Feel free to connect on WeChat. Please include a brief note about the purpose of the connection. ✨
 
-<center>
+<!-- <center>
 <img src="/images/wechat.PNG">
-</center>
+</center> -->

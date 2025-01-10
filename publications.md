@@ -3,8 +3,9 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 ---
+Lastest Update: Jan. 4, 2024
 
-Lastest Update: Jan. 4, 2024 &nbsp;  [中文版本 (Chinese Version)](https://xinwu74.github.io/file/publications-zh/)
+<!-- Lastest Update: Jan. 4, 2024 &nbsp;  [中文版本 (Chinese Version)](https://xinwu74.github.io/file/publications-zh/) -->
 
 ## Journal Paper
 
