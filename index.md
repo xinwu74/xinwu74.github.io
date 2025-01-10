@@ -10,7 +10,7 @@ Here is **Xin Wu (Tina, 吴欣)**.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100" title=" Say HI">
 
-📖 I am currently a graduate student 🔭. My main research interests are image processing, artificial intelligence 💻 + medical 🏥, with a focus on imaging medicine, and intelligent Chinese medicine diagnosis. My research interests lie in Machine Learning, Computer Vision and Multimodal learning.
+📖 I am currently a graduate student 🔭. My main research interests are image processing, artificial intelligence 💻 + medical 🏥, with a focus on imaging medicine, and intelligent Chinese medicine diagnosis. My research interests lie in Time Series, Multimodal learning, Reliable AI.
 
 🤔 Only two things make me move.
 
@@ -26,19 +26,23 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 <br>
 
 ## Academic Background
-<!-- - **Sep 2024 - Now:** Southwest Jiaotong University (Ph.D) -->
+- **Sep 2024 - Now:** Southwest Jiaotong University (Ph.D)
 - **Sep 2021 - June 2024:** Wuyi University (MEng)
 - **Sep 2016 - June 2020:** Chongqing University of Education (BEng)
 
 ---
 
 ## Research Interests
-
+- Reliable AI
 - Machine Learning
+- Time Series
+- Multimodal learning
+
+<!-- - Machine Learning
 - Computer Vision
 - Multimodal learning
 - Multilabel image classification
-- Medical image processing
+- Medical image processing -->
 
 ---
 
