@@ -10,7 +10,6 @@ Here is **Xin Wu (Tina, 吴欣)**.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100" title=" Say HI">
 
-<!-- 📖 I am currently a graduate student 🔭. My main research interests are image processing, AI 💻 + medical 🏥, with a focus on imaging medicine, and intelligent Chinese medicine diagnosis. My research interests lie in Time Series, Multimodal learning, Reliable AI. -->
 📖 I am currently a PhD student 🔭. The main research directions of the master's degree are image processing, AI 💻 + medical 🏥, and the key research directions are imaging medicine and traditional Chinese medicine intelligent diagnosis. My current research interests lie in time series 📈, OOD Generalization, and reliable AI. I am committed to pushing the boundaries of these research areas and exploring the full potential of machine learning algorithms to contribute meaningfully to the world of technology.
 
 🤔 Only two things make me move.
