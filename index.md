@@ -25,6 +25,21 @@ iii. ❤️ I like running 🏃‍♀️, eating 🐮, traveling 🏝, and bicyc
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me.
 <br>
 
+## News ⚡️
+<!-- - **June 2024：** I will start my Ph.D. studies at Southwest Jiaotong University in the fall of 2024! 🎉
+- **April 2024：** I submitted a paper to the ACM MM conference and am keeping my fingers crossed for a favorable response (ACM MM2024). 🙏  -->
+- **Dec 2023：**One paper was published by KBS (Just over two months)! 🔥
+- **Aug 2023：**One paper accepted to PRCV 2023, see you in Xiamen!
+
+<summary>Past News</summary>
+
+- **Oct 2022：**One paper accepted to Journal of Frontiers of Computer Science and Technology.
+
+</details>
+
+---
+
+
 ## Academic Background
 - **Sep 2024 - Now:** Southwest Jiaotong University (Ph.D)
 - **Sep 2021 - June 2024:** Wuyi University (MEng)
@@ -45,19 +60,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Multilabel image classification
 - Medical image processing -->
 
----
 
-## News ⚡️
-<!-- - **June 2024：** I will start my Ph.D. studies at Southwest Jiaotong University in the fall of 2024! 🎉
-- **April 2024：** I submitted a paper to the ACM MM conference and am keeping my fingers crossed for a favorable response (ACM MM2024). 🙏  -->
-- **Dec 2023：**One paper was published by KBS (Just over two months)! 🔥
-- **Aug 2023：**One paper accepted to PRCV 2023, see you in Xiamen!
-
-<summary>Past News</summary>
-
-- **Oct 2022：**One paper accepted to Journal of Frontiers of Computer Science and Technology.
-
-</details>
-<br>
 
 <a href="https://clustrmaps.com/site/1c5dz"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=6FW0QP0Be0BDSlZCNbTKuLsEaDGmvRe9Pwxt88fjUVI&cl=ffffff" /></a>
