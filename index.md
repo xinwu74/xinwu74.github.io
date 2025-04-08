@@ -52,5 +52,12 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **April 2024：** I submitted a paper to the ACM MM conference and am keeping my fingers crossed for a favorable response (ACM MM2024). 🙏  -->
 - **Dec 2023：**One paper was published by KBS (Just over two months)! 🔥
 - **Aug 2023：**One paper accepted to PRCV 2023, see you in Xiamen!
+
+<summary>Past News</summary>
+
 - **Oct 2022：**One paper accepted to Journal of Frontiers of Computer Science and Technology.
+
+</details>
 <br>
+
+<a href="https://clustrmaps.com/site/1c5dz"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=6FW0QP0Be0BDSlZCNbTKuLsEaDGmvRe9Pwxt88fjUVI&cl=ffffff" /></a>
