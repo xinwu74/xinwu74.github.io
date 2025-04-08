@@ -9,6 +9,7 @@ Lastest Update: April 7, 2025
 
 ## Publications and Preprints
 You can also browse my <a href="https://scholar.google.com/citations?user=1O2QQB8AAAAJ" style="color: blue;">Google Scholar profile</a>. I publish under the name "Xin Wu".
+
 <table>
   <tr>
     <td width="33%" valign="Center"> <!-- 设置左侧单元格的宽度 -->
@@ -18,7 +19,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=1O2QQB
       <p style="font-size: 16px;"><b>Out-of-Distribution Generalization in Time Series: A Survey</b></p>
       <p style="font-size: 16px;"><b>Xin Wu</b>, Fei Teng, Xingwang Li, Ji Zhang, Tianrui Li, Qiang Duan</p> 
       <p>Manuscript 2025. </p>
-      <p style="font-size: 16px;"><a href="https://arxiv.org/abs/2503.13868" style="color: blue;">Paper</a> &nbsp;&nbsp;<a href="https://tsood-generalization.com/" style="color: blue;">Page</a>
+      <p style="font-size: 16px;"><a href="https://arxiv.org/abs/2503.13868" style="color: blue;">Paper</a> &nbsp;&nbsp;<a href="https://tsood-generalization.com/" style="color: blue;">Page</a></p>
     </td>
   </tr>
 </table>
@@ -31,7 +32,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=1O2QQB
     <td style="text-align: left;">
       <p style="font-size: 16px;"><a href="https://xinwu74.github.io//publications/2023-12-03-paper-CTransCNN/"><b>CTransCNN: Combining Transformer and CNN in Multilabel Medical Image Classification</b></a></p>
       <p style="font-size: 16px;"><b>Xin Wu</b>, Yue Feng et al. </p>
-      <p> <b>Knowledge-Based Systems (KBS), 2023</b> </p>
+      <p> Knowledge-Based Systems (KBS), 2023 </p>
       <p style="font-size: 16px;"><a href="https://www.sciencedirect.com/science/article/pii/S0950705123007803" style="color: blue;">Paper</a> &nbsp;&nbsp;<a href="https://xinwu74.github.io/mypaper/classification/20231203CTransCNN.pdf" style="color: blue;">Download</a> &nbsp;&nbsp;<a href="https://github.com/wuliwuxin/CTransCNN" style="color: blue;">Code</a>&nbsp;&nbsp;<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:_o9ONaHFjEEJ:scholar.google.com/&output=citation&scisdr=ClHYkEj1EIPJvTogxbA:AFWwaeYAAAAAZZYm3bGMd9pFdweNG31xjHWQnP8&scisig=AFWwaeYAAAAAZZYm3VSfz0F7TZLxQfP4Th_3O9Q&scisf=4&ct=citation&cd=-1&hl=zh-CN" style="color: blue;">BibTeX</a></p>
     </td>
   </tr>
