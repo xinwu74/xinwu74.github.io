@@ -23,6 +23,15 @@ img{border:0;}
 svg:not(:root){overflow:hidden;}
 figure{margin:0;}
 fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:0.35em 0.625em 0.75em;}
+/* details summary::-webkit-details-marker {
+  display: none;
+}
+details summary::before {
+  content: "▶ ";
+}
+details[open] summary::before {
+  content: "▼ ";
+} */
 /* Change WUXIN */
 /* fieldset {
   border: 1px solid #c0c0c0;

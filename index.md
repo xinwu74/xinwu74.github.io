@@ -6,6 +6,23 @@ layout: page
 
 <!-- <img src="https://xinwu74.github.io/wuxin.jpg" class="floatpic" width="360" height="480"> -->
 
+<style>
+/* 去掉默认的小箭头 */
+details summary::-webkit-details-marker {
+  display: none;
+}
+
+/* 折叠时，用“▶”指示箭头 */
+details summary::before {
+  content: "▶ ";
+}
+
+/* 展开时，用“▼”指示箭头 */
+details[open] summary::before {
+  content: "▼ ";
+}
+</style>
+
 Here is **Xin Wu (Tina, 吴欣)**.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100" title=" Say HI">
@@ -31,28 +48,14 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **Dec 2023：**One paper was published by KBS (Just over two months)! 🔥
 - **Aug 2023：**One paper accepted to PRCV 2023, see you in Xiamen!
 
-<style>
-/* 去掉默认的小箭头 */
-details summary::-webkit-details-marker {
-  display: none;
-}
-
-/* 折叠时，用“▶”指示箭头 */
-details summary::before {
-  content: "▶ ";
-}
-
-/* 展开时，用“▼”指示箭头 */
-details[open] summary::before {
-  content: "▼ ";
-}
-</style>
 
 <details>
 <summary>Past News</summary>
-- **Oct 2022：**One paper accepted to Journal of Frontiers of Computer Science and Technology.
+
+- **Oct 2022：** One paper accepted to Journal of Frontiers of Computer Science and Technology.
 
 </details>
+
 
 ---
 
