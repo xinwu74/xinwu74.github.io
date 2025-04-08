@@ -31,6 +31,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **Dec 2023：**One paper was published by KBS (Just over two months)! 🔥
 - **Aug 2023：**One paper accepted to PRCV 2023, see you in Xiamen!
 
+<details>
 <summary>Past News</summary>
 
 - **Oct 2022：**One paper accepted to Journal of Frontiers of Computer Science and Technology.
@@ -60,6 +61,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Multilabel image classification
 - Medical image processing -->
 
-
-
-<a href="https://clustrmaps.com/site/1c5dz"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=6FW0QP0Be0BDSlZCNbTKuLsEaDGmvRe9Pwxt88fjUVI&cl=ffffff" /></a>
+<p align="center">
+<a href="https://clustrmaps.com/site/1c5dz" title="ClustrMaps">
+  <img src="//www.clustrmaps.com/map_v2.png?d=6FW0QP0Be0BDSlZCNbTKuLsEaDGmvRe9Pwxt88fjUVI&cl=ffffff" />
+</a>
+</p>
