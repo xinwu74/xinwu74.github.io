@@ -50,11 +50,12 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 
 <details>
-<summary>Past News</summary>
-
-- **Oct 2022：** One paper accepted to Journal of Frontiers of Computer Science and Technology.
-
+  <summary>Past News</summary>
+  <ul>
+    <li><strong>Oct 2022：</strong> One paper accepted to Journal of Frontiers of Computer Science and Technology.</li>
+  </ul>
 </details>
+
 
 
 ---
